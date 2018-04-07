@@ -15,7 +15,7 @@ if(true){
 }
 
 // создаем переменную бота
-$token = "ваш токен";
+$token = "568044726:AAFQqvlU20WmhzeuwtatMnfaZOaXRghy8HE";
 $bot = new \TelegramBot\Api\Client($token,null);
 
 if($_GET["bname"] == "revcombot"){
